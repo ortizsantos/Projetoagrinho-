@@ -24,11 +24,11 @@
     margin: 0% 16px;
     font-size: 24px; }
     
-    .escola-imagem{
+    .musica-imagem{
     width: 25%;
     }
     
-    .escola{
+    .musica{
     background: linear-gradient(180deg, #383D58 0%, #4EBFE9 100%);
     color: white;
     display: flex;
@@ -36,11 +36,11 @@
     align-items: center;
     padding: 24px 0;
     }
-    .escola-div-conteudo{
+    .musica-div-conteudo{
     width: 35%;
     
     }
-    .escola-titulo{
+    .musica-titulo{
     padding: 24px 0;
     }
     
