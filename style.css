@@ -29,7 +29,7 @@
     }
     
     .musica{
-    background: linear-gradient(180deg, #383D58 0%, #4EBFE9 100%);
+    background-color: rgb(206, 145, 191);
     color: white;
     display: flex;
     justify-content: center;
