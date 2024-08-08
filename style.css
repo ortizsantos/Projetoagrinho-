@@ -9,8 +9,8 @@
     }
     
     .cabeçalho{
-    background-color: blue ;
-    color: white;
+    background-color: crimson;
+    color: black;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -29,8 +29,8 @@
     }
     
     .musica{
-    background-color: lightpink;
-    color: white;
+    background-color: crimson;
+    color: black;
     display: flex;
     justify-content: center;
     align-items: center;
