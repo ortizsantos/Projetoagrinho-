@@ -9,7 +9,7 @@
     }
     
     .cabeçalho{
-    background-color: crimson;
+    background-color: pink;
     color: black;
     display: flex;
     justify-content: space-around;
@@ -29,7 +29,7 @@
     }
     
     .musica{
-    background-color: crimson;
+    background-color: pink;
     color: black;
     display: flex;
     justify-content: center;
